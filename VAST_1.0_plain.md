@@ -20,13 +20,47 @@ The next major element of the system is the relationship that may exist between 
 
 People tend to use words to denote the different ways in which they think about objects. In VAST, these words are called "names". To clearly distinguish concepts and their names from one another, VAST uses abstract labels (e.g., C, R) for the former and real language labels in quotation marks (e.g., "Cat", "Rocket") for the latter. The relationship between a concept and a word denoting that concept is called a "naming relationship". It is symbolized by an arrow pointing from the concept to the name, accompanied by the lower letter n. As with all relationship types (see above), the arrow stands for an IF-THEN relation: IF an object is an exemplar of the respective concept, THEN one may call this object by the respective name. Figure 1 displays some examples of naming relationships, including homonyms (the same name is used for different concepts) and synonyms (different names are used for the same concept). Note that both (a) the appropriateness and (b) the strengths of the relationships displayed in Figure 1 are treated as irrelevant for now. Distinguishing between concepts and their names is often necessary, because idiosyncratic word usage accounts for all sorts of problems (e.g., misunderstandings) in everyday arguments. The same issue is relevant for psychology, which continues to suffer from — often unacknowledged — jingle-fallacies (use of homonymic theoretical concepts) and jangle-fallacies (use of synonymic theoretical concepts) (Block, 1995).
 
+**Figure 1:**
+
+The caption says "Selected Naming Relationships".
+
+The figure describes the concepts "Homonym" and "Synonym".
+
+For Homonym, a box  in the center with the label "Bat" is connected with two boxes labeled "X" to the right and "Y" to the left, with arrows pointing towards "Bat". The "Y" box is also connected to a box with the text "Device used for hitting a ball in some games" above, with an upwards pointing arrow. The "X" box is connected to a box with the text "Small, nocturnal flying animal with leathery wings" above, with an upward poiting arrow. All arrows are labeled "n".
+
+For "Synonym", a box in the center with the label "Z" is connected on the left to a box labeled "Enraged" by a left-pointing arrow and on the right to a box labeled "Furious" by a right-pointing arrow.
+
 ### Relationship Type 2: Conceptual Implication (i)
 
 Conceptual implication is about the extent to which classifying objects as exemplars of one concept implies also categorizing the same objects as exemplars of another concept. Figure 2 displays an example. Here, when an object is considered to be a "sun", the same object is also somewhat likely to be considered "hot" and "bright". Conceptual implications are symbolized by arrows accompanied by the lowercase letter i. Figure 2 contains three different ways of displaying basically the same information. In the display on the left-hand side, all concepts and the relevant relationships between them are displayed as a part of one coherent whole. This is the default mode that we suggest for use with most VAST analyses, as it maximises parsimony while retaining all of the relevant information. In the middle display, the conceptual implications (type i) among the three concepts, and the naming relationships (n) have been separated from one another. This way of displaying things may sometimes be helpful to avoid clutter. However, this approach comes at the price of somewhat lower parsimony because every concept now has to be displayed twice. In the display on the righthand side, we use concept labels that directly reference the concepts' names. This is what we call the "Finger-isMoon-Mode" (FIMM), as it abolishes the explicit distinction between signifier and referent. This constitutes another possible way of reducing clutter, but comes at the significant risk of overlooking the importance of semantics, especially (partial) homonymity, synonomity, and antonymity. For example, another display using FIMM could show that the concept Star has the same conceptual implications (Hot, Bright) as the concept Sun. Here, the use of FIMM might obscure the fact that this is the case simply because "Sun" and "Star" are two different words for the exact same type of thing (S). To highlight the risk of semantic ambiguities like this one, we recommend explicating when the FIMM is being used, by adding the respective acronym in one corner of the display (see Figure 2). Also, many concept names are too long to be used as concept labels. In these cases, we recommend the approach exemplified in the middle of Figure 2. As a next step, we will introduce four more types of relationships between concepts that frequently feature in argument structures. Figure 3 displays the ways in which they are distinguished from one another (in terms of lowercase letters accompanying the respective arrows), along with a very simple example for each type. Note that, for simplicity, this figure uses FIMM, as signalled by the acronym in the upper right-hand corner.
 
+**Figure 2:**
+
+The caption says "Conceptual implications among three concepts. Left: full (default) mode in which concepts and names are connected within the same structure. Middle: full (default) mode with concepts separated from their names. Right: Finger-is-Moon-Mode (FIMM) in which concept labels reference the concepts’ names. The dashed lines symbolise that these are alternative ways of displaying the same set of concepts, names, and relationships, not three parts of the same VAST display".
+
+The figure is split horizontally into 3 sections.
+
+The Left section shows a single graph with a box labeles "S" in the center. An upwards pointing arrow with the label "N" connects "S" to a box labeled "Sun". An down-left pointing arrow with the label "i" connects "S" to a box labeled "H" and a downwards poiting arrow albeled "n" connects "H" to a box with the label "Hot". A right-dow poitnting arrow with the label "i" connects "S" to a box labeled "B" and a downwards poiting arrow albeled "n" connects "B" to a box with the label "Bright".
+
+The middle section shows three separate graphs at the top and one at the bottom. The first from the top connects a box labeled "S" with a box labeled "Sun" by a rightwards poitning arrow. The second from the top connects a box labeled "B" with a box labeled "Bright" by a rightwards poitning arrow. The third from the top connects a box labeled "H" with a box labeled "Hot" by a rightwards poitning arrow.
+
+The bottom graph connects a box labeleled "S" to a box labeled "H" by a down-left poiting arrow and to a box labeled "B" by a down-right poiting arrow. The left section is labeled "FIMM" and shows a graph that connects a box labeled "Sun" to a box labeled "hot" by down-left pointing arrow with the label "i" and to a box labeled "Bright" by down-right poiting arrow with the label "i".
+.
 ### Relationship Type 3: Causation (c)
 
 Many important articles and books have been written about causation (Eronen & Bringmann, 2021; Pearl, 1995; Pearl & Mackenzie, 2018; Rohrer, 2018). In VAST, we use a concept of causation that is also reflected in how most experimentalists tend to think about their research designs. This concept involves temporal order as a necessary ingredient: Causes always precede effects, but never the other way round. Also, causation would become evident if we were able to manipulate the suspected cause variable and then observe subsequent changes in another variable. Note that all of this concerns the ways in which we (and most people, presumably) think about causation, irrespective of whether such a suspected causal link may ever be proven or disproved in terms of data. Note also that most causal relationships between concepts could be — but do not have to be — decomposed into a number of intervening steps. For example, the causal relationship in Figure 3 reflects a relatively proximal link between cause (Smoking) and effect (Lung Cancer). It could be amended by inserting Tar Accumulation as a mediator that is caused by Smoking and that causes Lung Cancer.
+
+**Figure 3:**
+
+The caption says "Four more types of relationships between concepts (c = causation, t = transformation, p = prediction, r = reasoning)". The figure contains 4 graphs arranged vertically.
+
+The first from the top shows a box labeled "Smoking" connected by a rightwards pointing arrow labeled "c" to a box with the label "Lung Cancer".
+
+The second graph shows a box labeled "Temperature in Celsius" connected by a rightwards pointing arrow labeled "t" to a box labeled "Temperature in Fahrenheit".
+
+The third graph shows a box labeled "Height" connected by a rightwards pointing arrow labeled "p" to a box with the label "Number of Y Chromosomes".
+
+The fourth graph shows a box labeled "X + 4 = 8" connected by a rightwards pointing arrow labeled "r" to a box with the label "X = 4".
 
 ### Relationship Type 4: Transformation (t)
 
@@ -43,6 +77,32 @@ This relationship type is about the conclusions that people draw from certain pr
 ### Additional Relationship Types
 
 In the present paper, we only address those types of relationships between concepts that we think feature prominently in many arguments — everyday ones as well as scientific ones. Needless to say, the selection is and has to be somewhat subjective. It is relatively easy to come up with examples of other relationship types that may be useful to employ under certain circumstances (e.g., metamorphosis (m): when X turns into Y over time; association (a): when thinking of X makes it likely to also think of Y; element of (e): when X is among the ingredients that, together, constitute Y etc.). We assume that the principles laid out in the following (e.g., regarding relationship strength and the construction of higher-order concepts) will still apply in these instances. In cases where a relationship between concepts is assumed to exist but the exact nature of that relationship is (yet) unknown, we recommend using the letter u.
+
+**Figure 4:**
+
+The caption says "Relationship strengths and relationship patterns".
+
+The figure contains a numbered list of 10 individual grpahs arranged in two columns.
+
+Graph 1 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c "weak"' to a box labeled "Y".
+
+Graph 2 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c "0.5"' to a box labeled "Y".
+
+Graph 3 shows a box labeled "X" connected by a rightwards pointing arrow labeled "c *" to a box labeled "Y", with an extra label under it that says "* Y = 2 sin(X) + 750 X".
+
+Graph 4 shows a box labeled "X" connected by a rightwards poitning arrow to a diamond shape labeled "OR", another box labeled "Z" connects to "OR" via an upward arrow from below. A rightward arrow connects "OR" to a box labeled "Y".
+
+Graph 5 shows a box labeled "X" connected by a rightwards poitning arrow to a diamond shape labeled "*", another box labeled "Z" connects to "*" via an upward arrow from below. A rightward arrow connects "OR" to a box labeled "Y", and an extra label below that says "* Y = 2.45X + Z".
+
+Graph 6 shows a box labeled "X" connected by a downward arrow to a diamond shape labeled "AND". Another box labeled "Y" connects to "AND" from below with an upward poiting arrow. A rightward pointing arrow connects "AND" to a box labeled "Z". "X" is also connected to "Z" by an arrow labeled "C1" that starts poiting right and then makes a turn down. "Y" is also connected to "Z" by an arrow labeled "C2" that starts poiting right and then makes a turn up.
+
+Graph 7 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c" coming from the right, pointing at "Y".
+
+Graph 8 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c <> 0" coming from the right, pointing at "Y".
+
+Graph 9 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c 0" coming from the right, pointing at "Y".
+
+Graph 10 shows a box labeled "X" connected by a rightwards pointing arrow labeled 'c 0.3' to a box labeled "Y", and a leftward poiting arrow labeled "c ?" coming from the right, pointing at "Y".
 
 ## Relationship Strength
 
